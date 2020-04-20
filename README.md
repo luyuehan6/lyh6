@@ -1,14 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to  my GitHub Pages
 
-我是鲁玥含，四川大学信息资源管理专业的一名学生。
+I'm LU, A student majoring in information resource management of scu.
 
 
-# 个人信息
-## 生日
-## 经历
-# 相关课程
-## 互联网分析与治理
-# 相关网址
+# personal information
+## personal base data
+## persona experience
+
+# related courses
+## Internet analysis and governance
+
+# related website
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
