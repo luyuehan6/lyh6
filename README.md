@@ -4,11 +4,11 @@ I'm LU, A student majoring in information resource management of scu.
 
 
 # personal information
-## personal base data
-## persona experience
+### personal base data
+### persona experience
 
 # related courses
-## Internet analysis and governance
+### Internet analysis and governance
 
 # related website
 
