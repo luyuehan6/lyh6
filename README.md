@@ -4,14 +4,22 @@ I'm LU, A student majoring in information resource management of scu.
 
 
 # personal information
+birthay:2000.06.03
+constellation:Gemini
+
 ### personal base data
-### persona experience
+e-mail address:1501066892@qq.com
+
+### personal experience
+enrolled in scu in 2018
 
 # related courses
 ### Internet analysis and governance
+teacher:Tian
+most commomly used software:Rstudio
 
 # related website
-
+github official
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
