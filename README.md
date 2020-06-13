@@ -9,7 +9,7 @@ birthay:2000.06.03
 constellation:Gemini
 
 ### personal base data
-e-mail address:1501066892@qq.com
+
 
 ### personal experience
 enrolled in scu in 2018
